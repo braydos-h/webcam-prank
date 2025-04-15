@@ -18,7 +18,7 @@ Uses Windows API via `ctypes` to programmatically update your desktop wallpaper 
 ### ✅ Requirements
 Python 3.7+
 
-OpenCV (pip install opencv-python)
+OpenCV (`pip install opencv-python`)
 
 Windows OS (Tested on Windows 11)
 
