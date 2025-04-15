@@ -14,3 +14,12 @@ The image is saved as a `.bmp` file — this format is preferred by Windows for 
 
 ### 3. Sets the Wallpaper
 Uses Windows API via `ctypes` to programmatically update your desktop wallpaper with the captured
+
+###✅ Requirements
+Python 3.7+
+
+OpenCV (pip install opencv-python)
+
+Windows OS (Tested on Windows 11)
+
+
