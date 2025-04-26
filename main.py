@@ -41,3 +41,6 @@ def capture_and_set_wallpaper():
 
 if __name__ == "__main__":
     capture_and_set_wallpaper()
+    # The function is called when the script is run directly
+    # It captures an image from the webcam and sets it as the desktop wallpaper
+print ("get hacked lil bro") # this is a joke and not meant to be taken seriously
